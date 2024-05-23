@@ -1,6 +1,5 @@
 # How to run 
 
-```
 - Install the dependecies
 ```
 pip install -e '.[dev]'
